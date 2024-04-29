@@ -2,7 +2,7 @@
 
 ![Reputable Protocol Logo](/assets/reputable_logo.png)
 
-Embark on a journey with Reputable Lab, where the synergy of blockchain technology and collective developer talent converges. Our mission: to craft an ecosystem where the reputations of Web3 innovators are not just recognized but revered!
+Embark on a journey with Reputable Lab, where blockchain technology and collective developer talent converge. Our mission: to craft an ecosystem where the reputations of Web3 innovators are not just recognized but revered!
 
 ## What is Reputable?
 
