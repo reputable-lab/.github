@@ -1,8 +1,8 @@
-# Welcome to Reputable Lab 
+# Welcome to Reputable Lab
 
 ![Reputable Protocol Logo](/assets/reputable_logo.png)
 
-Embark on a journey with Reputable Lab, where blockchain technology and collective developer talent converge. 
+Embark on a journey with Reputable Lab, where blockchain technology and collective developer talent converge.
 
 **Our mission**: to craft an ecosystem where the reputations of Web3 innovators are not just recognized but revered!
 
@@ -16,7 +16,6 @@ Reputable is a Blockchain protocol to curate and chronicle developers' reputatio
 - **Merit-Based Reputation System**: Harness the power of smart contracts to spotlight developer performance.
 - **Community-Centric Approach**: Tap into the collective intelligence with open-source collaboration.
 
-
 ### How to Contribute
 
 - **Issues & Discussion**: Propel the protocol forward by raising thoughtful issues or initiating discourse on enhancements.
@@ -25,12 +24,12 @@ Reputable is a Blockchain protocol to curate and chronicle developers' reputatio
 
 ### Repository Navigation
 
-| Directory         | Purpose                                                         |
-|-------------------|-----------------------------------------------------------------|
-| `/docs`           | Comprehensive documentation and protocol details.               |
-| `/contracts`      | Smart contract source for the core protocol.                    |
-| `/tests`          | Test suites ensuring stability and reliability.                 |
-| `/examples`       | Real-world use cases and implementation samples.                |
+| Directory    | Purpose                                           |
+| ------------ | ------------------------------------------------- |
+| `/docs`      | Comprehensive documentation and protocol details. |
+| `/contracts` | Smart contract source for the core protocol.      |
+| `/tests`     | Test suites ensuring stability and reliability.   |
+| `/examples`  | Real-world use cases and implementation samples.  |
 
 ### Join the Reputable Ecosystem
 
