@@ -1,16 +1,16 @@
-**# Welcome to Reputable.Network**
+### Welcome to Reputable.Network
 
 ![Reputable Protocol Logo](/assets/reputable_logo.png)
 
 Reputable.Network is a decentralized reputation protocol that enables developers and protocols to create, customize, and monetize on-chain reputation models. Leveraging both on-chain and off-chain data, Reputable provides a comprehensive, sybil-resistant scoring framework tailored to the needs of Web3 protocols, DAOs, and developers.
 
 
-**## Overview**
+### Overview
 
 Reputable.Network allows for the decentralized aggregation, validation, and attestation of reputation data, supporting a customizable approach for protocols and developers aiming to establish and monetize their reputation within the ecosystem. By blending data from both Web2 and Web3 sources, Reputable delivers a hybrid, transparent, and objective reputation model to enhance trust and transparency in decentralized systems.
 
 
-**### Key Features**
+### Key Features
 
 - **Customizable Reputation Models**: Deploy personalized models that reflect the unique needs and metrics of your community or application.
 - **Sybil-Resistant Attestations**: Use a combination of on-chain and off-chain data to mint a trustless and on-chain reputation score.
@@ -18,7 +18,7 @@ Reputable.Network allows for the decentralized aggregation, validation, and atte
 - **Decentralized Data Validation**: A network of Reputable nodes ensures the integrity of reputation data through a consensus mechanism.
 
 
-**### Core Components**
+### Core Components
 
 **Data Aggregation (Web2 and Web3)**: Collects and aggregates data from both Web2 and Web3 environments, providing comprehensive insights to support the reputation scoring.
 
@@ -29,7 +29,7 @@ Reputable.Network allows for the decentralized aggregation, validation, and atte
 **Reputable Protocol (Trusted Compute)**: The core computation layer where reputation data is processed and validated. This layer interacts with the EAS_Registry to verify data and with the Reputable Hub to manage reputation models.
 
 
-**### How It Works**
+### How It Works
 
 - **Data Collection**: Aggregated from both Web2 and Web3 sources, data flows into the protocol where it undergoes validation.
 - **Attestation and Validation:** Verified data is sent to the EAS_Registry to receive attestations, ensuring its authenticity.
@@ -39,7 +39,7 @@ Reputable.Network allows for the decentralized aggregation, validation, and atte
 - **Cross-dApp Integration**: Models can be shared and reused across different decentralized applications, with fees distributed between Reputable and model creators.
 
 
-**### Getting Started**
+### Getting Started
 
 - Clone the Repository
 - Install Dependencies: Ensure you have the necessary environment setup, including Node.js, TypeScript, and other package dependencies.
@@ -47,14 +47,14 @@ Reputable.Network allows for the decentralized aggregation, validation, and atte
 - Integrate with dApps: Use the provided APIs and contract methods to link Reputable.Network with your dApp.
 
 
-**### How to Contribute**
+### How to Contribute
 
 - **Issues & Discussion**: Propel the protocol forward by raising thoughtful issues or initiating discourse on enhancements.
 - **Pull Requests**: Mold the future with your code—submit PRs and elevate Reputable's capabilities.
 - **Feature Frenzy**: Envision new features? We're all ears (and screens)!
 
 
-**### Join the Reputable.Network Ecosystem**
+### Join the Reputable.Network Ecosystem
 
 [Reputable.Network Biolink](https://bio.link/reputable)
 
