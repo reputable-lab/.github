@@ -1,4 +1,4 @@
-# Reputable Protocol Developer guide
+# REPUTABLE Protocol Developer guide
 
 [![DAPP](https://img.shields.io/badge/DAPP-03BE09)](https://app.reputable.network/leaderboard)
 [![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303)](https://t.me/addlist/...)
