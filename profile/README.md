@@ -11,7 +11,9 @@
 
 ## Overview
 
-Reputable.Network allows for the decentralized aggregation, validation, and attestation of reputation data, supporting a customizable approach for protocols and developers aiming to establish and monetize their reputation within the ecosystem. By blending data from both Web2 and Web3 sources, Reputable delivers a hybrid, transparent, and objective reputation model to enhance trust and transparency in decentralized systems.
+Reputable.Network allows for the decentralized aggregation, validation, and attestation of reputation data, supporting a customizable approach for protocols and developers aiming to establish and monetize their reputation within the ecosystem. By blending data from both Web2 and Web3 sources, Reputable delivers a hybrid, transparent, and objective reputation model to enhance trust and transparency in decentralized systems
+
+---
 
 ### Key Features
 
@@ -43,6 +45,8 @@ Reputable.Network allows for the decentralized aggregation, validation, and atte
 | Name                | Description                           | Repo                                                                        | Latest Release                                                                                                                                       |
 | ------------------- | ------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | reputable-contracts | Reputable Core Protocol EVM Contracts | [reputable-contracts](https://github.com/reputable-lab/reputable-contracts) | [![NPM Version](https://img.shields.io/npm/v/%40reputable-lab%2Freputable-contracts)](https://github.com/reputable-lab/reputable-contracts/releases) |
+
+---
 
 ### How to Contribute
 
