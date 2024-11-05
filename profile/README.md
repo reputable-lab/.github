@@ -1,59 +1,51 @@
-![Reputable Protocol Logo](/assets/reputable_logo.png)
+# Reputable Protocol Developer guide
 
-**Reputable.Network** is a decentralized reputation protocol that enables developers and protocols to create, customize, and monetize on-chain reputation models.
+[![DAPP](https://img.shields.io/badge/DAPP-03BE09)](https://app.reputable.network/leaderboard)
+[![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303)](https://t.me/addlist/...)
+[![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple)](https://bit.ly/...)
+[![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Reputable)
 
+> Reputable is dedicated to building a trustless and transparent reputation ecosystem for the decentralized web. This mission of creating objective, customizable reputation models is only possible with contributions from pioneering builders like you. 🫵
+
+![Reputable Protocol Logo](/assets/architecture.jpg)
 
 ## Overview
 
 Reputable.Network allows for the decentralized aggregation, validation, and attestation of reputation data, supporting a customizable approach for protocols and developers aiming to establish and monetize their reputation within the ecosystem. By blending data from both Web2 and Web3 sources, Reputable delivers a hybrid, transparent, and objective reputation model to enhance trust and transparency in decentralized systems.
 
-
-## Key Features
+### Key Features
 
 - **Customizable Reputation Models**: Deploy personalized models that reflect the unique needs and metrics of your community or application.
 - **Sybil-Resistant Attestations**: Use a combination of on-chain and off-chain data to mint a trustless and on-chain reputation score.
-- **Monetizable Reputation Model Registry**: List your models on the Reputable Hub to allow others to leverage and reward your custom Model.
+- **Monetize Reputation Model**: List your models on the Reputable Hub to allow others to leverage and reward your custom Model.
 - **Decentralized Data Validation**: A network of Reputable nodes ensures the integrity of reputation data through a consensus mechanism.
 
+<!-- ---
 
-## Core Components
+### 📝 Docs
 
-**Data Aggregation (Web2 and Web3)**: Collects and aggregates data from both Web2 and Web3 environments, providing comprehensive insights to support the reputation scoring.
+| Website                                | Description                       | Repo                                                           |
+| -------------------------------------- | --------------------------------- | -------------------------------------------------------------- |
+| [docs.near.org](https://docs.near.org) | Reputable Developer Documentation | [near/docs](https://img.shields.io/badge/coming%20soon-8A2BE2) | -->
 
-**EAS_Registry (Reputation Attestations Contract)**: Manages the issuance and verification of reputation attestations, ensuring that all data inputs to the reputation models are authentic and trustworthy.
+---
 
-**Reputable Hub_Contract (Reputation Models Registry)**: Hosts and organizes customizable reputation models created by protocols and developers. Models deployed here can be shared across dApps, allowing creators to earn rewards.
+### ⛓️ 🔎 Blockchain Data Indexing
 
-**Reputable Protocol (Trusted Compute)**: The core computation layer where reputation data is processed and validated. This layer interacts with the EAS_Registry to verify data and with the Reputable Hub to manage reputation models.
+| Name              | Description                  | Repo                                                                    | Latest Release                                                                |
+| ----------------- | ---------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| reputable-indexer | Reputable blockchain indexer | [reputable-indexer](https://github.com/reputable-lab/reputable-indexer) | [Latest Release](https://github.com/reputable-lab/reputable-indexer/releases) |
 
+---
 
-## How It Works
+### 📝 Smart Contracts
 
-- **Data Collection**: Aggregated from both Web2 and Web3 sources, data flows into the protocol where it undergoes validation.
-- **Attestation and Validation:** Verified data is sent to the EAS_Registry to receive attestations, ensuring its authenticity.
-- **Reputation Model Creation**: Protocols design custom reputation models, defining weights and parameters based on specific criteria.
-- **Deployment and Monetization**: The created model is deployed to the Reputable Hub_Contract, allowing it to be accessed and monetized by other protocols.
-- **Model Execution**: Smart contracts execute the model across dApps, where protocols can leverage trusted reputation data to inform decisions or provide incentives.
-- **Cross-dApp Integration**: Models can be seamless integrated across dApps.
+| Name                | Description                           | Repo                                                                        | Latest Release                                                                                                                                       |
+| ------------------- | ------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| reputable-contracts | Reputable Core Protocol EVM Contracts | [reputable-contracts](https://github.com/reputable-lab/reputable-contracts) | [![NPM Version](https://img.shields.io/npm/v/%40reputable-lab%2Freputable-contracts)](https://github.com/reputable-lab/reputable-contracts/releases) |
 
-
-## Getting Started
-
-- Clone the Repository
-- Install Dependencies: Ensure you have the necessary environment setup, including Node.js, TypeScript, and other package dependencies.
-- Deploy Custom Models: Follow our example code to create and deploy your own custom reputation model.
-- Integrate with dApps: Use the provided APIs and contract methods to link Reputable.Network with your dApp.
-
-
-## How to Contribute
+### How to Contribute
 
 - **Issues & Discussion**: Propel the protocol forward by raising thoughtful issues or initiating discourse on enhancements.
 - **Pull Requests**: Mold the future with your code—submit PRs and elevate Reputable's capabilities.
 - **Feature Frenzy**: Envision new features? We're all ears (and screens)!
-
-
-## Join the Reputable.Network Ecosystem
-
-[Reputable.Network Biolink](https://bio.link/reputable)
-
-Together, we're not just writing code—we're scripting history ⚡️
