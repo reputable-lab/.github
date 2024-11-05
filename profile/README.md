@@ -1,7 +1,7 @@
 # REPUTABLE Protocol Developer guide
 
 [![DAPP](https://img.shields.io/badge/DAPP-03BE09)](https://app.reputable.network/leaderboard)
-[![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303)](https://t.me/addlist/...)
+[![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303)](https://t.me/reputable_network/6)
 [![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple)](https://bit.ly/...)
 [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Reputable)
 
