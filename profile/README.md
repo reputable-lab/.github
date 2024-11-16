@@ -5,14 +5,14 @@
 [![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple)](https://bit.ly/...)
 [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Reputable)
 
-> Reputable is dedicated to building a trustless and transparent reputation ecosystem for the decentralized web. This mission of creating objective, customizable reputation models is only possible with contributions from pioneering builders like you. 🫵
+> Reputable is dedicated to building a trustless and transparent reputation ecosystem for the decentralized web. This mission of creating objective, customizable reputation models is only possible with contributions from top builders like you. 🫵
 
 ![Reputable Protocol Schema_1](/assets/Diagram_DevconApp_Part1.png)
 ![Reputable Protocol Schema_2](/assets/Diagram_ReputableDapp_Part2.png)
 
 ## Overview
 
-Reputable.Network allows for the decentralized aggregation, validation, and attestation of reputation data, supporting a customizable approach for protocols and developers aiming to establish and monetize their reputation within the ecosystem. By blending data from both Web2 and Web3 sources, Reputable delivers a hybrid, transparent, and objective reputation model to enhance trust and transparency in decentralized systems
+Reputable.Network is a decentralized protocol designed to aggregate, validate, and attest to reputation data, enabling Web3 protocols to build fully customizable on-chain reputation models tailored to their unique needs. By leveraging both on-chain and off-chain data, Reputable facilitates the creation of hybrid reputation models that empower protocols to identify and reward impactful contributors, foster trust, and optimize resource allocation across decentralized ecosystems. Additionally, Reputable introduces a monetization layer, transforming reputation models into valuable, tradable assets, driving innovation and collaboration within Web3.
 
 ---
 
@@ -22,6 +22,7 @@ Reputable.Network allows for the decentralized aggregation, validation, and atte
 - **Sybil-Resistant Attestations**: Use a combination of on-chain and off-chain data to mint a trustless and on-chain reputation score.
 - **Monetize Reputation Model**: List your models on the Reputable Hub to allow others to leverage and reward your custom Model.
 - **Decentralized Data Validation**: A network of Reputable nodes ensures the integrity of reputation data through a consensus mechanism.
+- **Trustless Computation On-Chain**: Execute and verify reputation score calculations directly on-chain to ensure transparency and trustworthiness.
 
 <!-- ---
 
