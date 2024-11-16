@@ -50,6 +50,19 @@ Reputable.Network is a decentralized protocol designed to aggregate, validate, a
 
 ---
 
+### 🔗 Partners Integration
+
+| Partner                       | Integration                           |
+| ----------------------------- | ------------------------------------- | 
+| **Uniswap Foundation (Unichain)** | Deploys Reputable Core Protocol (Reputable Hub_Contract Registry for models), handles model computation, and scores developers. |
+| **Web3Auth**| Provides authentication for protocols to deploy their models and enables custom GitHub authentication for developers to mint scores on-chain. |
+| **TheGraph** | Indexes custom reputation models on-chain for efficient querying and data retrieval. |
+| **Sign Protocol** | Issues attestations for developers including their GitHub ID, every contributions, and scores for each parameter. Supports developer scoring. |
+| **Blockscout** | Fetches verified smart contracts on-chain to links them with off-chain GitHub data for transparency and validation. |
+| **Push Protocol** | Facilitates end-to-end messaging for direct communication with developers and protocols. |
+
+---
+
 ### How to Contribute
 
 - **Issues & Discussion**: Propel the protocol forward by raising thoughtful issues or initiating discourse on enhancements.
