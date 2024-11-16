@@ -7,7 +7,8 @@
 
 > Reputable is dedicated to building a trustless and transparent reputation ecosystem for the decentralized web. This mission of creating objective, customizable reputation models is only possible with contributions from pioneering builders like you. 🫵
 
-![Reputable Protocol Logo](/assets/architecture.jpg)
+![Reputable Protocol Schema_1](/assets/Diagram_DevconApp_Part1.png)
+![Reputable Protocol Schema_2](/assets/Diagram_ReputableDapp_Part2.png)
 
 ## Overview
 
@@ -42,9 +43,9 @@ Reputable.Network allows for the decentralized aggregation, validation, and atte
 
 ### 📝 Smart Contracts
 
-| Name                | Description                           | Repo                                                                        | Latest Release                                                                                                                                       |
-| ------------------- | ------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| reputable-contracts | Reputable Core Protocol EVM Contracts | [reputable-contracts](https://github.com/reputable-lab/reputable-contracts) | [![NPM Version](https://img.shields.io/npm/v/%40reputable-lab%2Freputable-contracts)](https://github.com/reputable-lab/reputable-contracts/releases) |
+| Name                | Description                           | Repo                                                                        | Latest Release |
+| ------------------- | ------------------------------------- | --------------------------------------------------------------------------- | -------------- |
+| reputable-contracts | Reputable Core Protocol EVM Contracts | [reputable-contracts](https://github.com/reputable-lab/reputable-contracts) |
 
 ---
 
