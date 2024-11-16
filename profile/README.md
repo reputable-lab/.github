@@ -1,4 +1,4 @@
-# REPUTABLE Protocol Developer guide
+# REPUTABLE Protocol guide
 
 [![DAPP](https://img.shields.io/badge/DAPP-03BE09)](https://app.reputable.network/leaderboard)
 [![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303)](https://t.me/reputable_network/6)
@@ -52,14 +52,14 @@ Reputable.Network is a decentralized protocol designed to aggregate, validate, a
 
 ### 🔗 Partners Integration
 
-| Partner                       | Integration                           |
-| ----------------------------- | ------------------------------------- | 
-| **Uniswap Foundation (Unichain)** | Deploys Reputable Core Protocol (Reputable Hub_Contract Registry for models), handles model computation, and scores developers. |
-| **Web3Auth**| Provides authentication for protocols to deploy their models and enables custom GitHub authentication for developers to mint scores on-chain. |
-| **TheGraph** | Indexes custom reputation models on-chain for efficient querying and data retrieval. |
-| **Sign Protocol** | Issues attestations for developers including their GitHub ID, every contributions, and scores for each parameter. Supports developer scoring. |
-| **Blockscout** | Fetches verified smart contracts on-chain to links them with off-chain GitHub data for transparency and validation. |
-| **Push Protocol** | Facilitates end-to-end messaging for direct communication with developers and protocols. |
+| Partner                           | Integration                                                                                                                                   |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Uniswap Foundation (Unichain)** | Deploys Reputable Core Protocol (Reputable Hub_Contract Registry for models), handles model computation, and scores developers.               |
+| **Web3Auth**                      | Provides authentication for protocols to deploy their models and enables custom GitHub authentication for developers to mint scores on-chain. |
+| **TheGraph**                      | Indexes custom reputation models on-chain for efficient querying and data retrieval.                                                          |
+| **Sign Protocol**                 | Issues attestations for developers including their GitHub ID, every contributions, and scores for each parameter. Supports developer scoring. |
+| **Blockscout**                    | Fetches verified smart contracts on-chain to links them with off-chain GitHub data for transparency and validation.                           |
+| **Push Protocol**                 | Facilitates end-to-end messaging for direct communication with developers and protocols.                                                      |
 
 ---
 
